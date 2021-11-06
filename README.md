@@ -16,3 +16,6 @@ npx hardhat help
 
 ## Contract Address:
 [0x20536B281242035dE51bfFf259b754E6DcFa7700](https://ropsten.etherscan.io/token/0x20536b281242035de51bfff259b754e6dcfa7700)
+
+### Tutorial
+[Check link here](https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/#gatsby-focus-wrapper)
